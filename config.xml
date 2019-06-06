@@ -34,5 +34,5 @@
 </feature>
 
   <plugin name="cordova-plugin-contacts" spec="1.0.0" />
-    <plugin name="org.apache.cordova.core.contacts" spec="0.2.1" source="pgb" />
+    
 </widget>
