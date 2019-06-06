@@ -35,6 +35,6 @@
     <param name="ios-package" value="CDVContacts" />
 </feature>
 
-  <plugin name="cordova-plugin-contacts@3.0.2" spec="1.0.0" />
+  <plugin name="cordova-plugin-contacts" spec="1.0.0" />
 
 </widget>
